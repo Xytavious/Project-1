@@ -21,7 +21,7 @@ class Contact{
     string get_email(){
         return email;
     }
-    st get_phone(){
+    string get_phone(){
         return phone;
     }
     void display(){
