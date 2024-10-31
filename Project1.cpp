@@ -40,3 +40,9 @@ class main(){
 
     }
 }
+int main()
+{
+    Contact = tacs;
+    std::cout<<"Contacts Name: " <<endl;
+    std::cin>>tacs.name;
+}
